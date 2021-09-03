@@ -14,6 +14,8 @@ A backend server that allows the user to view, update, and remove categories, pr
 
 ## Installation
 
+Here is a Video demonstration of how to use this application https://drive.google.com/file/d/1O_6psS7fL3oX4qszjnsb6_aQxPfQ6wef/view
+
 you can acces this app at https://github.com/codeb-a/E-Commerce-Backend
 
 ## License
